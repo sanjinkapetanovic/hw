@@ -1,0 +1,9 @@
+C:\Users\SanjinPC\Documents\Workspace\@BitCamp\Moj prvi projekat\Projekti\S10D04VHW\S10D04VHW\bin\Debug\S10D04VHW.exe.config
+C:\Users\SanjinPC\Documents\Workspace\@BitCamp\Moj prvi projekat\Projekti\S10D04VHW\S10D04VHW\obj\Debug\S10D04VHW.csprojResolveAssemblyReference.cache
+C:\Users\SanjinPC\Documents\Workspace\@BitCamp\Moj prvi projekat\Projekti\S10D04VHW\S10D04VHW\bin\Debug\S10D04VHW.exe
+C:\Users\SanjinPC\Documents\Workspace\@BitCamp\Moj prvi projekat\Projekti\S10D04VHW\S10D04VHW\bin\Debug\S10D04VHW.pdb
+C:\Users\SanjinPC\Documents\Workspace\@BitCamp\Moj prvi projekat\Projekti\S10D04VHW\S10D04VHW\obj\Debug\S10D04VHW.exe
+C:\Users\SanjinPC\Documents\Workspace\@BitCamp\Moj prvi projekat\Projekti\S10D04VHW\S10D04VHW\obj\Debug\S10D04VHW.pdb
+C:\Users\SanjinPC\Documents\Workspace\@BitCamp\Moj prvi projekat\Zadace\S10D04VHW\S10D04VHW\bin\Debug\S10D04VHW.exe.config
+C:\Users\SanjinPC\Documents\Workspace\@BitCamp\Moj prvi projekat\Zadace\S10D04VHW\S10D04VHW\obj\Debug\S10D04VHW.exe
+C:\Users\SanjinPC\Documents\Workspace\@BitCamp\Moj prvi projekat\Zadace\S10D04VHW\S10D04VHW\obj\Debug\S10D04VHW.pdb
