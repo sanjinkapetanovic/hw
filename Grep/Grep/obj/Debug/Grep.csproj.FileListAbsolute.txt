@@ -1,0 +1,6 @@
+C:\Users\SanjinPC\Documents\Workspace\@BitCamp\Moj prvi projekat\Zadace\Grep\Grep\bin\Debug\Grep.exe.config
+C:\Users\SanjinPC\Documents\Workspace\@BitCamp\Moj prvi projekat\Zadace\Grep\Grep\bin\Debug\Grep.exe
+C:\Users\SanjinPC\Documents\Workspace\@BitCamp\Moj prvi projekat\Zadace\Grep\Grep\bin\Debug\Grep.pdb
+C:\Users\SanjinPC\Documents\Workspace\@BitCamp\Moj prvi projekat\Zadace\Grep\Grep\obj\Debug\Grep.csprojResolveAssemblyReference.cache
+C:\Users\SanjinPC\Documents\Workspace\@BitCamp\Moj prvi projekat\Zadace\Grep\Grep\obj\Debug\Grep.exe
+C:\Users\SanjinPC\Documents\Workspace\@BitCamp\Moj prvi projekat\Zadace\Grep\Grep\obj\Debug\Grep.pdb
